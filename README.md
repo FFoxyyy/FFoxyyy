@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Foxyy,
 - 👀 I’m interested in coding in Haxe and Python,
 - 🌱 I’m currently learning Python,
-- 📫 How to reach me, Foxyy#5416
+- 📫 How to reach me, Foxyy#0728
 
 <!---
 FFoxyyy/FFoxyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
